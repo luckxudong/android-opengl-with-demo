@@ -1,0 +1,2 @@
+include ':android-opengl-es'
+include ':android-opengl-es-demo'
